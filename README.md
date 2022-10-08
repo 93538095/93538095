@@ -1,7 +1,3 @@
-
-
-
-
 - 👋 Hi, I’m @93538095
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
